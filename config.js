@@ -1,18 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'em à!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
+    Mà sao em cứ lùn quá vậy, em có cao hông`,
+    btnIntro: 'hê hê',
+    title: 'Phải chăng em đã là con chim cánh cụt đầu tiên 😙',
+    desc: 'đó chắc chắn là sự thật ',
+    btnYes: 'đúng rồi, quá đúng luôn',
     btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    question:'chắc chưa đó ',
+    btnReply: 'Gửi cho thầy',
+    reply: 'đã nói là nói thiệt rồi mà ',
+    mess: 'thầy biết là đúng mà ',
+    messDesc: 'cho nói lại á ',
+    btnAccept: 'đã người ta nói là chắc rồi mà =))',
     messLink: 'https://www.facebook.com/KhoaiTayChien2_4_2007/', }
